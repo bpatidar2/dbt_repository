@@ -47,5 +47,4 @@ models:
     +schema: tsf
     +transient: false
 
-    tsf_backup_servicing:
-     +tags: 'bksvc'
+    
